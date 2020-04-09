@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ruanmou.house.redis.houseredis.config.RedisTemplateConfig
